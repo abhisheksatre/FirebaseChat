@@ -29,7 +29,8 @@ public class Adddata extends AppCompatActivity {
     ArrayList<Profile> userdata;
     ArrayList<Groupdata> groups;
     SharedPreferences userdetails;
-
+    String dummytext;
+    //changes
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
