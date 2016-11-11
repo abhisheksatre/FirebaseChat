@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "468360070117",
+    "firebase_url": "https://groupchat-d2fbc.firebaseio.com",
+    "project_id": "groupchat-d2fbc",
+    "storage_bucket": "groupchat-d2fbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468360070117:android:f40f70a4fd5171ec",
+        "android_client_info": {
+          "package_name": "com.mobond.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468360070117-ordi9fh17des47759b2pnrl4v6s9krdl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobond.firebasechat",
+            "certificate_hash": "5C6A0DBEA47779C25CB96E8621EF16F3AFEC7806"
+          }
+        },
+        {
+          "client_id": "468360070117-69ncgubgqag4j3e9fop3iaf4kpu81hii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-e6YCoD8RRhMz-97GBxLbu9qdSOfQ7Vs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468360070117-69ncgubgqag4j3e9fop3iaf4kpu81hii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
